@@ -21,3 +21,5 @@ neptune            machines       standalone     Monday    4AM
 mars               machines       standalone     Monday    1AM
 luigi              machines       standalone     Monday    2AM
 mario              machines       standalone     Tuesday   12AM
+
+taran              machines       standalone     Monday    4AM
